@@ -9,7 +9,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.jittotech.com" target="_blank">
-    <img src="https://github.com/JittoJoseph/simple-idea-generator/blob/main/apple-touch-icon.png?raw=true" alt="Blog" style=" width: 40px; height: 40px;"/>
+    <img src="https://github.com/JittoJoseph/simple-idea-generator/blob/main/apple-touch-icon.png?raw=true" alt="Blog" style=" width: 36px; height: 36px;"/>
   </a>
 </div>
 
