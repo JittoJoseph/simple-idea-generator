@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e7e5e4;
+    margin: 0;
+    padding: 0;
+}
+
+#generate-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    display: inline-block;
+    padding: 1em 3.5em;
+    background-color: #1D9BF0;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 0.3em;
+    font-weight: 700;
+    letter-spacing: .5px;
+    font-size: .875rem;
+    text-align: center;
+}
+
+#button-contain {
+    background-color: #e7e5e4;
+    color: #25657E;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 92px;
+    padding: 10px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+}
+
+h3.elegantshadow {
+    color: #131313;
+    background-color: #e7e5e4;
+    letter-spacing: 0.15em;
+    text-shadow: 2px -2px 0 #767676;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@300;900&display=swap');
+
+.hero {
+    background-color: #e7e5e4;
+    color: #131313;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Onest', sans-serif;
+}
+
+.hero h3 {
+    margin: 0 10;
+    font-weight: 1000;
+    font-size: 60px;
+    line-height: 100%;
+    text-transform: uppercase;
+}
