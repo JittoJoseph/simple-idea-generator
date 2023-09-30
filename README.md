@@ -31,11 +31,11 @@ This is a web-based random idea generator that provides you with interesting act
 
 ## Demo
 
-You can try out the live demo [here](https://www.jittotech.com/p/idea.html) (insert your demo link here).
+You can try out the live demo [here](https://www.jittotech.com/p/idea.html).
 
 ## How to Use
 
-1. Clone this repository to your local machine or [download the ZIP file](#) (insert your GitHub repository link here).
+1. Clone this repository to your local machine or [download the ZIP file](https://github.com/JittoJoseph/simple-idea-generator/archive/refs/heads/main.zip) (insert your GitHub repository link here).
 
 2. Open the `index.html` file in your web browser.
 
