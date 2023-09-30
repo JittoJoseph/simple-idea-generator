@@ -9,7 +9,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.jittotech.com" target="_blank">
-    <img src="https://www.blogger.com/u/1/favicon-image.g?blogID=2188167474314545099" alt="Blog" />
+    <img src="[https://www.blogger.com/u/1/favicon-image.g?blogID=2188167474314545099](https://github.com/JittoJoseph/simple-idea-generator/blob/main/android-chrome-192x192.png?raw=true)" alt="Blog" />
   </a>
 </div>
 
