@@ -1,12 +1,15 @@
 <div align="center">
-  <a href="https://twitter.com/JittoJoseph17">
+  <a href="https://twitter.com/JittoJoseph17" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/jitto_joseph1">
+  <a href="https://www.instagram.com/jitto_joseph1" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jittojoseph17/">
+  <a href="https://www.linkedin.com/in/jittojoseph17/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.jittotech.com" target="_blank">
+    <img src="https://www.blogger.com/u/1/favicon-image.g?blogID=2188167474314545099" alt="Blog" />
   </a>
 </div>
 
