@@ -2,10 +2,10 @@
   <a href="https://twitter.com/JittoJoseph17">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
   </a>
-  <a href="[https://www.instagram.com/YourInstagramUsername/](https://www.instagram.com/jitto_joseph1)">
+  <a href="https://www.instagram.com/jitto_joseph1">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="[https://www.linkedin.com/in/YourLinkedInProfile/](https://www.linkedin.com/in/jittojoseph17/)">
+  <a href="https://www.linkedin.com/in/jittojoseph17/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 </div>
