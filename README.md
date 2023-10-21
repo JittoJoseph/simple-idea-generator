@@ -52,7 +52,7 @@ You can easily customize the design and functionality:
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/JittoJoseph/simple-idea-generator/issues) (insert your GitHub repository issues link here).
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/JittoJoseph/simple-idea-generator/issues).
 
 ## License
 
@@ -64,9 +64,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Connect with Us
 
-- Follow us on [Twitter](#) for updates and news!
-- Join our [Discord](#) community to discuss ideas and get support from other users.
+- Follow us on [Twitter](https://twitter.com/JittoJoseph17) for updates and news!
+- Explore more on our blog [Jitto Tech](https://www.jittotech.com/).
 
-Feel free to explore, modify, and share this simple idea generator with others! If you have any questions or need assistance, don't hesitate to [contact us](#) (insert your contact information here).
+Feel free to explore, modify, and share this simple idea generator with others! If you have any questions or need assistance, don't hesitate to [contact us](https://www.jittotech.com/p/about.html).
 
 Happy idea generating!
