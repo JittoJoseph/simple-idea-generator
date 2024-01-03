@@ -15,7 +15,7 @@
 
 # Simple Idea Generator
 
-This is a web-based random idea generator that provides you with interesting activity ideas at the click of a button.
+This is a web based random idea generator that provides you with interesting activity ideas at the click of a button.
 
 ![GitHub stars](https://img.shields.io/github/stars/JittoJoseph/simple-idea-generator?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/JittoJoseph/simple-idea-generator?style=social)
